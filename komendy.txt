@@ -1,3 +1,3 @@
 npx autoprefixer-cli -o style.prefixed.css style.css
 
-cli nu-html-checker
+npx nu-html-checker *.html
