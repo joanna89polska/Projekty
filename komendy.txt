@@ -1,9 +1,3 @@
-autoprefixer-cli -o main.prefixed.css main.css
+npx autoprefixer-cli -o style.prefixed.css style.css
 
-Usage: cli [options] <files/urls ...>
-
-  Options:
-
-    -h, --help                   output usage information
-    -V, --version                output the version number
-    -f, --formatter <formatter>  Choose the formatter to use. (stylish, json)
+cli nu-html-checker
